@@ -21,7 +21,8 @@ Software i use:
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=Intellij IDEA&style=for-the-badge&color=7F52FF&logo=IntelliJ IDEA"/>
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=PHP Storm&style=for-the-badge&color=fe318d&logo=PhpStorm"/>
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=PyCharm&style=for-the-badge&color=21d78d&logo=PyCharm"/>
-<img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2021%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
+<img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2022%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
+<img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2019%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
 <img src="https://img.shields.io/static/v1?label=GitKraken&message=8.8.0&style=for-the-badge&color=179287&logo=GitKraken"/>
 <img src="https://img.shields.io/static/v1?label=GitHub&message=NeutralPlasma&style=for-the-badge&color=181717&logo=Github"/>
 <img src="https://img.shields.io/static/v1?label=PostMan&message=9.31.0&style=for-the-badge&color=FF6C37&logo=Postman"/>
