@@ -15,6 +15,8 @@ Languages i know or have used before:
 <img src="https://img.shields.io/static/v1?label=VBA&message=VBA&style=for-the-badge&color=217346&logo=Microsoft Excel"/>
 <img src="https://img.shields.io/static/v1?label=CSS&message=CSS3&style=for-the-badge&color=1572B6&logo=CSS"/>
 <img src="https://img.shields.io/static/v1?label=SQL&message=MariaDB&style=for-the-badge&color=003545&logo=MariaDB"/>
+<img src="https://img.shields.io/static/v1?label=Lua&message=5.4&style=for-the-badge&color=2C2D72&logo=Lua"/>
+<img src="https://img.shields.io/static/v1?label=TypeScript&message=4.8.x&style=for-the-badge&color=3178C6&logo=Typescript"/>
 
 Software i use:
 <br>
