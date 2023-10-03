@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I am Gasper Lukman also known as NeutralPlasma or gaspercino123 on spigotmc, I come from Slovenia. <br>
-Mostly self taught everything I know about coding.
+I am Gasper Lukman also known as NeutralPlasma or gaspercino123 on SpigotMC, from Slovenia. <br>
+Mostly self-taught everything I know about coding.
 
-Languages i know or have used before:
+Languages I know or have used before:
 <br>
 <img src="https://img.shields.io/static/v1?label=NODE.JS&message=14.15.1&style=for-the-badge&color=43853D&logo=NODE.JS"/>
 <img src="https://img.shields.io/static/v1?label=PHP&message=8.x&style=for-the-badge&color=8892BF&logo=PHP"/>
 <img src="https://img.shields.io/static/v1?label=HTML&message=HTML5&style=for-the-badge&color=D63933&logo=HTML5"/>
 <img src="https://img.shields.io/static/v1?label=Java&message=17&style=for-the-badge&color=F80000&logo=OpenJDK"/>
-<img src="https://img.shields.io/static/v1?label=Kotlin&message=1.7&style=for-the-badge&color=7F52FF&logo=Kotlin"/>
+<img src="https://img.shields.io/static/v1?label=Kotlin&message=1.9&style=for-the-badge&color=7F52FF&logo=Kotlin"/>
 <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=20&style=for-the-badge&color=00599C&logo=c%2B%2B"/>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES13&style=for-the-badge&color=F7DF1E&logo=JavaScript"/>
 <img src="https://img.shields.io/static/v1?label=VBA&message=VBA&style=for-the-badge&color=217346&logo=Microsoft Excel"/>
@@ -18,7 +18,7 @@ Languages i know or have used before:
 <img src="https://img.shields.io/static/v1?label=Lua&message=5.4&style=for-the-badge&color=2C2D72&logo=Lua"/>
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=4.8.x&style=for-the-badge&color=3178C6&logo=Typescript"/>
 
-Software i use:
+Software I use:
 <br>
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=Intellij IDEA&style=for-the-badge&color=7F52FF&logo=IntelliJ IDEA"/>
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=PHP Storm&style=for-the-badge&color=fe318d&logo=PhpStorm"/>
