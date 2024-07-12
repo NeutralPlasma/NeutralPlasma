@@ -5,11 +5,11 @@ Mostly self-taught everything I know about coding.
 
 Languages I know or have used before:
 <br>
-<img src="https://img.shields.io/static/v1?label=NODE.JS&message=14.15.1&style=for-the-badge&color=43853D&logo=NODE.JS"/>
+<img src="https://img.shields.io/static/v1?label=NODE.JS&message=20.x&style=for-the-badge&color=43853D&logo=NODE.JS"/>
 <img src="https://img.shields.io/static/v1?label=PHP&message=8.x&style=for-the-badge&color=8892BF&logo=PHP"/>
 <img src="https://img.shields.io/static/v1?label=HTML&message=HTML5&style=for-the-badge&color=D63933&logo=HTML5"/>
-<img src="https://img.shields.io/static/v1?label=Java&message=17&style=for-the-badge&color=F80000&logo=OpenJDK"/>
-<img src="https://img.shields.io/static/v1?label=Kotlin&message=1.9&style=for-the-badge&color=7F52FF&logo=Kotlin"/>
+<img src="https://img.shields.io/static/v1?label=Java&message=21&style=for-the-badge&color=F80000&logo=OpenJDK"/>
+<img src="https://img.shields.io/static/v1?label=Kotlin&message=2.0.0&style=for-the-badge&color=7F52FF&logo=Kotlin"/>
 <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=20&style=for-the-badge&color=00599C&logo=c%2B%2B"/>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES13&style=for-the-badge&color=F7DF1E&logo=JavaScript"/>
 <img src="https://img.shields.io/static/v1?label=VBA&message=VBA&style=for-the-badge&color=217346&logo=Microsoft Excel"/>
@@ -25,9 +25,9 @@ Software I use:
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=PyCharm&style=for-the-badge&color=21d78d&logo=PyCharm"/>
 <img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2022%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
 <img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2019%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
-<img src="https://img.shields.io/static/v1?label=GitKraken&message=8.8.0&style=for-the-badge&color=179287&logo=GitKraken"/>
+<img src="https://img.shields.io/static/v1?label=GitKraken&message=fancy&style=for-the-badge&color=179287&logo=GitKraken"/>
 <img src="https://img.shields.io/static/v1?label=GitHub&message=NeutralPlasma&style=for-the-badge&color=181717&logo=Github"/>
-<img src="https://img.shields.io/static/v1?label=PostMan&message=9.31.0&style=for-the-badge&color=FF6C37&logo=Postman"/>
+<img src="https://img.shields.io/static/v1?label=PostMan&message=lifesaver&style=for-the-badge&color=FF6C37&logo=Postman"/>
 
 
 <p align="center">
