@@ -12,7 +12,6 @@ Languages I know or have used before:
 <img src="https://img.shields.io/static/v1?label=Kotlin&message=2.0.0&style=for-the-badge&color=7F52FF&logo=Kotlin"/>
 <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=20&style=for-the-badge&color=00599C&logo=c%2B%2B"/>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES13&style=for-the-badge&color=F7DF1E&logo=JavaScript"/>
-<img src="https://img.shields.io/static/v1?label=VBA&message=VBA&style=for-the-badge&color=217346&logo=Microsoft Excel"/>
 <img src="https://img.shields.io/static/v1?label=CSS&message=CSS3&style=for-the-badge&color=1572B6&logo=CSS"/>
 <img src="https://img.shields.io/static/v1?label=SQL&message=MariaDB&style=for-the-badge&color=003545&logo=MariaDB"/>
 <img src="https://img.shields.io/static/v1?label=Lua&message=5.4&style=for-the-badge&color=2C2D72&logo=Lua"/>
@@ -20,12 +19,12 @@ Languages I know or have used before:
 
 Software I use:
 <br>
-<img src="https://img.shields.io/static/v1?label=JetBrains&message=Intellij IDEA&style=for-the-badge&color=7F52FF&logo=IntelliJ IDEA"/>
-<img src="https://img.shields.io/static/v1?label=JetBrains&message=PHP Storm&style=for-the-badge&color=fe318d&logo=PhpStorm"/>
+<img src="https://img.shields.io/static/v1?label=JetBrains&message=intellijidea&style=for-the-badge&color=7F52FF&logo=IntelliJ IDEA"/>
+<img src="https://img.shields.io/static/v1?label=JetBrains&message=phpstorm&style=for-the-badge&color=fe318d&logo=PhpStorm"/>
 <img src="https://img.shields.io/static/v1?label=JetBrains&message=PyCharm&style=for-the-badge&color=21d78d&logo=PyCharm"/>
+<img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2026%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
 <img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2022%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
-<img src="https://img.shields.io/static/v1?label=Visual%20studio&message=2019%20enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio"/>
-<img src="https://img.shields.io/static/v1?label=GitKraken&message=fancy&style=for-the-badge&color=179287&logo=GitKraken"/>
+<img src="https://img.shields.io/static/v1?label=GitKraken&message=:3&style=for-the-badge&color=179287&logo=GitKraken"/>
 <img src="https://img.shields.io/static/v1?label=GitHub&message=NeutralPlasma&style=for-the-badge&color=181717&logo=Github"/>
 <img src="https://img.shields.io/static/v1?label=PostMan&message=lifesaver&style=for-the-badge&color=FF6C37&logo=Postman"/>
 
